@@ -70,7 +70,13 @@ How many numbers would you like?
 Your generated password is: tR#p9$aW1!
 ```
 
-👤 Author | Autor
+### 👤 Author | Autor
 <div align="center"> <a href="https://github.com/matheussricardoo" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/matheus-ricardo-426452266/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> </a> </div>
+
+### 📄 License | Licença
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/> </div> 
